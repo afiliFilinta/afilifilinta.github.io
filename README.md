@@ -1,7 +1,5 @@
 # Personal Website
 
-Here are some steps to get you started:
-
 1. Clone this repo and cd into the directory:
 
   ```bash

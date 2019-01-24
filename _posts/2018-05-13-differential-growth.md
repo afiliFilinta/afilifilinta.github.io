@@ -4,7 +4,7 @@ position: left
 title: 'Differential Growth'
 date: 2016-02-20 00:00:00
 categories: development
-tags: JavaScript three.js
+tags: javaScript three.js differential-growth
 featured_image: '/img/posts/02_diff_growth.PNG'
 project_link: 'https://github.com/afiliFilinta/differential-growth'
 button_icon: 'flask'

@@ -4,7 +4,7 @@ position: right
 title: 'Allometry'
 date: 2017-12-05 00:00:00
 categories: development
-tags: JavaScript three.js Supershape
+tags: javaScript three.js supershape
 featured_image: '/img/posts/01_allometry.PNG'
 project_link: 'https://github.com/afiliFilinta/allometry'
 button_icon: 'github'
